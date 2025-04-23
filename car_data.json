@@ -1,0 +1,99 @@
+[
+  {
+    "brand": "Acura",
+    "models": [
+      { "name": "ILX", "startYear": 2013, "isCurrent": false, "type": "Sedan" },
+      { "name": "MDX", "startYear": 2001, "isCurrent": true, "type": "SUV" },
+      { "name": "RDX", "startYear": 2007, "isCurrent": true, "type": "SUV" },
+      { "name": "TLX", "startYear": 2015, "isCurrent": true, "type": "Sedan" }
+    ]
+  },
+  {
+    "brand": "BMW",
+    "models": [
+      { "name": "3 Series", "startYear": 1975, "isCurrent": true, "type": "Sedan" },
+      { "name": "X5", "startYear": 1999, "isCurrent": true, "type": "SUV" },
+      { "name": "i8", "startYear": 2014, "endYear": 2020, "type": "Hybrid Sports Car" },
+      { "name": "Z4", "startYear": 2002, "isCurrent": true, "type": "Convertible" }
+    ]
+  },
+  {
+    "brand": "Chevrolet",
+    "models": [
+      { "name": "Camaro", "startYear": 1966, "isCurrent": true, "type": "Muscle Car" },
+      { "name": "Silverado", "startYear": 1999, "isCurrent": true, "type": "Truck" },
+      { "name": "Impala", "startYear": 1958, "endYear": 2020, "type": "Sedan" },
+      { "name": "Corvette", "startYear": 1953, "isCurrent": true, "type": "Sports Car" }
+    ]
+  },
+  {
+    "brand": "Dodge",
+    "models": [
+      { "name": "Charger", "startYear": 1966, "isCurrent": true, "type": "Sedan" },
+      { "name": "Durango", "startYear": 1998, "isCurrent": true, "type": "SUV" },
+      { "name": "Challenger", "startYear": 1970, "isCurrent": true, "type": "Muscle Car" },
+      { "name": "Viper", "startYear": 1992, "endYear": 2017, "type": "Sports Car" }
+    ]
+  },
+  {
+    "brand": "Ford",
+    "models": [
+      { "name": "Mustang", "startYear": 1964, "isCurrent": true, "type": "Muscle Car" },
+      { "name": "F-150", "startYear": 1975, "isCurrent": true, "type": "Truck" },
+      { "name": "Explorer", "startYear": 1990, "isCurrent": true, "type": "SUV" },
+      { "name": "Focus", "startYear": 1998, "endYear": 2018, "type": "Compact Car" }
+    ]
+  },
+  {
+    "brand": "Honda",
+    "models": [
+      { "name": "Civic", "startYear": 1972, "isCurrent": true, "type": "Compact" },
+      { "name": "Accord", "startYear": 1976, "isCurrent": true, "type": "Sedan" },
+      { "name": "CR-V", "startYear": 1995, "isCurrent": true, "type": "SUV" },
+      { "name": "Pilot", "startYear": 2002, "isCurrent": true, "type": "SUV" }
+    ]
+  },
+  {
+    "brand": "Jaguar",
+    "models": [
+      { "name": "XE", "startYear": 2015, "isCurrent": true, "type": "Sedan" },
+      { "name": "XF", "startYear": 2007, "isCurrent": true, "type": "Sedan" },
+      { "name": "F-Pace", "startYear": 2016, "isCurrent": true, "type": "SUV" },
+      { "name": "I-Pace", "startYear": 2018, "isCurrent": true, "type": "Electric SUV" }
+    ]
+  },
+  {
+    "brand": "Kia",
+    "models": [
+      { "name": "Soul", "startYear": 2008, "isCurrent": true, "type": "Crossover" },
+      { "name": "Sportage", "startYear": 1993, "isCurrent": true, "type": "SUV" },
+      { "name": "Sorento", "startYear": 2002, "isCurrent": true, "type": "SUV" },
+      { "name": "Optima", "startYear": 2000, "endYear": 2020, "type": "Sedan" }
+    ]
+  },
+  {
+    "brand": "Lexus",
+    "models": [
+      { "name": "IS", "startYear": 1998, "isCurrent": true, "type": "Sedan" },
+      { "name": "ES", "startYear": 1989, "isCurrent": true, "type": "Sedan" },
+      { "name": "RX", "startYear": 1998, "isCurrent": true, "type": "SUV" },
+      { "name": "NX", "startYear": 2014, "isCurrent": true, "type": "SUV" }
+    ]
+  },
+  {
+    "brand": "Mercedes-Benz",
+    "models": [
+      { "name": "C-Class", "startYear": 1993, "isCurrent": true, "type": "Sedan" },
+      { "name": "E-Class", "startYear": 1993, "isCurrent": true, "type": "Sedan" },
+      { "name": "S-Class", "startYear": 1972, "isCurrent": true, "type": "Luxury Sedan" },
+      { "name": "GLC", "startYear": 2015, "isCurrent": true, "type": "SUV" }
+    ]
+  },
+  {
+    "brand": "Nissan",
+    "models": [
+      { "name": "Altima", "startYear": 1992, "isCurrent": true, "type": "Sedan" }
+    , { "name": "Rogue", "startYear": 2007, "isCurrent": true, "type": "SUV" }
+    ]
+  }
+]
